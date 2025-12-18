@@ -1,8 +1,10 @@
-# ExamSoft Export CSV to Blackboard Import CSV Converter
+# ExamSoft Export Scores CSV to Blackboard Import Scores CSV Converter
 
 A Python script that can be run from the command prompt or converted into a  **Windows desktop application**.
 
-We use ExamSoft at our school but test grades are reported in Blackboard Ultra.   We've been exporting scores from ExamSoft in CSV format, downloading gradebook CSV files from Blackboard Ultra, then copying scores from one-to-the-other.
+We use ExamSoft at our school but test scores are reported in Blackboard Ultra.   
+
+We've been exporting scores from ExamSoft in CSV format, downloading gradebook CSV files from Blackboard Ultra, then copying scores from one-to-the-other.
 
 This utility converts **ExamSoft assessment score exports (CSV)** into a **Blackboard Ultra import–ready CSV file**, with built-in validation, previewing, and audit reporting.
 
@@ -68,6 +70,7 @@ Select Exam Taker Name, Email, desired Score → View Report → Show 250 → Ex
 
 ### Step 2 — Export Blackboard Gradebook
 Gradebook → Download Grades → Full Gradebook → Select assessment → CSV
+(This is needed to get the internal name Blackboard gave to the exam)
 
 ### Step 3 — Convert Files
 Launch app → Select ExamSoft CSV → Select Blackboard CSV → Review preview → Generate file
