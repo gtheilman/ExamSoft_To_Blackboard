@@ -486,9 +486,6 @@ if __name__ == '__main__':  # Launch the application
     app = ExamSoftToBlackboardApp(root);
     root.mainloop()
 
-    self.examsoft_score_col = self.es_col_var.get();
-    self.update_preview();
-    self.perform_instant_audit()
 
 
 def select_examsoft_file(self):  # Open a file dialog to choose the ExamSoft CSV file
