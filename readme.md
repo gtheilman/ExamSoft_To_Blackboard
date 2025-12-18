@@ -1,4 +1,4 @@
-# ExamSoft to Blackboard Converter
+# ExamSoft Export CSV to Blackboard Import CSV Converter
 
 A Python script that can be run from the command prompt or converted into a  **Windows desktop application**.
 
