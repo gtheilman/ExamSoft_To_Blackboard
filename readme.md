@@ -79,6 +79,7 @@ Sample File in dist folder:  Sample_Blackboard_Gradebook_Export.csv
 
 ### Step 3 — Convert Files
 Launch app → Select ExamSoft CSV → Select Blackboard CSV → Review preview → Generate file
+
 Give the CSV file whatever name you like...
 
 ### Step 4 — Upload New CSV to Blackboard Ultra
