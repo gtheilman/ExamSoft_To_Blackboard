@@ -26,6 +26,8 @@ Designed to reduce manual spreadsheet work and minimize grade upload errors.
 
 ---
 
+![](https://imgur.com/a/1RvBMyI)
+
 ## System Requirements
 
 - **Windows 10 or later**
