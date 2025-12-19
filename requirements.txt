@@ -1,0 +1,16 @@
+# Runtime dependencies for ExamSoft to Blackboard Converter
+# This application uses only Python standard library modules at runtime.
+# No third-party packages are required to run the program from source.
+
+# tkinter        (standard library, included with Python on Windows)
+# csv            (standard library)
+# os             (standard library)
+# logging        (standard library)
+# re             (standard library)
+# ctypes         (standard library)
+# subprocess     (standard library)
+# json           (standard library)
+# datetime       (standard library)
+
+# --- Optional (developer / build only) ---
+# pyinstaller>=6.0
