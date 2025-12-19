@@ -51,14 +51,10 @@ Designed to reduce manual spreadsheet work and minimize grade upload errors.
 ---
 ## Use (Python)
 
-1. Execute main.py
+1. Run main.py
    ```
    python main.py
    ```
-
-2. Double-click to launch  
-   *(Windows SmartScreen may warn on first run — choose “More info → Run anyway”)*
-
 ---
 ## Create Windows Executable (Developers)
 
