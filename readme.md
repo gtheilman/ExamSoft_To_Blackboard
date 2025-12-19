@@ -26,7 +26,7 @@ Designed to reduce manual spreadsheet work and minimize grade upload errors.
 
 ---
 
-![](https://imgur.com/a/1RvBMyI)
+![Screen](https://imgur.com/a/1RvBMyI)
 
 ## System Requirements
 
