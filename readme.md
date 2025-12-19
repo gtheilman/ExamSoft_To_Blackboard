@@ -1,6 +1,6 @@
 # ExamSoft Export Scores CSV to Blackboard Import Scores CSV Converter
 
-A Python script that can be run from the command prompt or converted into a  **Windows desktop application**.
+A Python script that can be run from the command prompt or can be converted into a  **Windows desktop application**.
 
 We use ExamSoft at our school but test scores are reported in Blackboard Ultra.   
 
