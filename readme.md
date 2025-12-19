@@ -67,15 +67,18 @@ dist/
 ### Step 1 — Export Scores from ExamSoft
 Open the assessment → Reporting / Scoring → Exam Taker Results  
 Select Exam Taker Name, Email, desired Score → View Report → Show 250 → Export CSV
+Sample File in dist folder:  ET_Results_Examsoft_Sample_Export_Scores.csv
 
-### Step 2 — Export Blackboard Gradebook
+### Step 2 — Export Blackboard Ultra Gradebook
 Gradebook → Download Grades → Full Gradebook → Select assessment → CSV
 (This is needed to get the internal name Blackboard gave to the exam)
+Sample File in dist folder:  Sample_Blackboard_Gradebook_Export.csv
 
 ### Step 3 — Convert Files
 Launch app → Select ExamSoft CSV → Select Blackboard CSV → Review preview → Generate file
+Give the CSV file whatever name you like...
 
-### Step 4 — Upload to Blackboard
+### Step 4 — Upload New CSV to Blackboard Ultra
 Gradebook → Upload Grades → Upload generated CSV → Confirm mapping → Submit
 
 ---
