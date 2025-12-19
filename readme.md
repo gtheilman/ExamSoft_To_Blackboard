@@ -66,7 +66,7 @@ dist/
 
 ### Step 1 — Export Scores from ExamSoft
 Open the assessment → Reporting / Scoring → Exam Taker Results  
-Select Exam Taker Name, Email, desired Score → View Report → Show 250 → Export CSV
+Select Exam Taker Name, Email, Desired Score → View Report → Show 250 → Export CSV
 
 Sample File in dist folder:  ET_Results_Examsoft_Sample_Export_Scores.csv
 
