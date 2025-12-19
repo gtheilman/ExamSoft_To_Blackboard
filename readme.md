@@ -26,7 +26,7 @@ Designed to reduce manual spreadsheet work and minimize grade upload errors.
 
 ---
 
-![Screen](https://imgur.com/a/1RvBMyI)
+![Screen](https://github.com/gtheilman/ExamSoft_To_Blackboard/blob/master/dist/Screenshot.png)
 
 ## System Requirements
 
