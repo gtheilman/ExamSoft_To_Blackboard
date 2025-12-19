@@ -38,7 +38,7 @@ Designed to reduce manual spreadsheet work and minimize grade upload errors.
 
 ---
 
-## Installation (End Users)
+## Use (Windows)
 
 1. Download the executable:
    ```
@@ -49,8 +49,18 @@ Designed to reduce manual spreadsheet work and minimize grade upload errors.
    *(Windows SmartScreen may warn on first run — choose “More info → Run anyway”)*
 
 ---
+## Use (Python)
 
-## Installation (Developers)
+1. Execute main.py
+   ```
+   python main.py
+   ```
+
+2. Double-click to launch  
+   *(Windows SmartScreen may warn on first run — choose “More info → Run anyway”)*
+
+---
+## Create Windows Executable (Developers)
 
 ```bash
 pip install pyinstaller
