@@ -51,7 +51,7 @@ Designed to reduce manual spreadsheet work and minimize grade upload errors.
 ---
 ## Use (Python)
 
-1. Run main.py
+Run main.py
    ```
    python main.py
    ```
