@@ -72,6 +72,8 @@ dist/
 
 ## How to Use
 
+[![YouTube Video](https://img.youtube.com/vi/BmjoJizhmiU/hqdefault.jpg)](https://www.youtube.com/watch?v=BmjoJizhmiU)
+
 ### Step 1 — Export Scores from ExamSoft
 Open the assessment → Reporting / Scoring → Exam Taker Results  
 Select Exam Taker Name, Email, Desired Score → View Report → Show 250 → Export CSV
